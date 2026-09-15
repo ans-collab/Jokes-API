@@ -8,7 +8,7 @@ import java.util.List;
 import org.springframework.web.bind.annotation.GetMapping;
 
 @RestController 
-@RequestMapping ("/api/jokes")
+@RequestMapping ("/jokes-api")
 public class JokeController {
 
     private final JokeService jokeService;
