@@ -6,9 +6,7 @@ public class Joke {
     private String setup;
     private String punchline;
 
-    public Joke() {
-
-    }
+    public Joke() {   }
 
     public Joke(int id, String setup, String punchline) {
         this.id = id;
