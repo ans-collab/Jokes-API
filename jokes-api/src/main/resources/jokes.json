@@ -1,0 +1,63 @@
+[
+    {
+
+        "id": 1,
+        "setup":"I havea fear of elevators.",
+        "punchline":"I'm taking steps to avoid it."
+    },
+    {
+        "id":   2,
+        "setup":"To the guy who invented zero.",
+        "punchline": "Thanks for nothin'"
+    },
+    {
+        "id": 3,
+        "setup": "I wonder what kind of Dr Pepper was.",
+        "punchline": "A fizzician."
+    },
+    {
+        "id": 4,
+        "setup": "Did you hear that the guy who invented VELCRO died?",
+        "punchline": "RIP"
+    },
+     {
+        "id": 5,
+        "setup": "Do you know the first rule of the passive-aggressive club is?",
+        "punchline": "Never mind. Forget it --- it's fine."
+    },
+     {
+        "id": 6,
+        "setup": "Guess who I ran into on the way to the optician's?",
+        "punchline": "Everyone."
+    },
+    {
+        "id": 7,
+        "setup": "I don't trust stairs.",
+        "punchline": "They're always up to something."
+    },
+      {
+        "id": 8,
+        "setup": "I had a great childhood. Dad used to roll me down the hill in tires.",
+        "punchline": "Those were Good Years."
+    },
+    {
+        "id": 9,
+        "setup": "I turned down a job where I'd be paid in vegetables.",
+        "punchline": "The celery was just unacceptable."
+    },
+    {
+        "id": 10,
+        "setup": "The people of Dubai don't like the Flintstones.",
+        "punchline": "But the people of Abu Dhabi Do."
+    },
+    {
+        "id": 11,
+        "setup": "The oldest computer was owned by Adam and Eve. It was an Appple with very limited memory.",
+        "punchline": "Just one byte and everything crashed."
+    },
+    {
+        "id": 12,
+        "setup": "I'll never again donate to people who collect money for marathons.",
+        "punchline": "They just take my money and run."
+    }
+]
