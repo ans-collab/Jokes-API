@@ -63,7 +63,7 @@ jobs:
         key: ${{ secrets.EC2_SSH_KEY }}
         port: 22
         source: "target/*.jar"
-        target: "/home/${{ secrets.EC2_USERNAME }}/app"
+        target: "/home/${{ secrets.EC2_USERNAME }}/joke-api"
         strip_components: 1
 
     - name: Run JAR on Linux EC2 via SSH
